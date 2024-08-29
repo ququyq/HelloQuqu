@@ -236,15 +236,7 @@ CCTV4K 超高清,http://mtw.so/5VbDUV
 CCTV4K 超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 
 CCTV8K 超高清,http://mtw.so/62HqYI
-
-CGTN英语,https://0472.org/hls/cgtn.m3u8
-CGTN纪录,https://0472.org/hls/cgtnd.m3u8
-CGTN俄语,https://0472.org/hls/cgtne.m3u8
-CGTN法语,https://0472.org/hls/cgtnf.m3u8
-CGTN西语,https://0472.org/hls/cgtnx.m3u8
-CGTN阿语,https://0472.org/hls/cgtna.m3u8
-CGTN法语,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-CGTN阿语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+中国气象,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
 卫视频道,#genre#
 安徽卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
@@ -1393,34 +1385,6 @@ Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 4K超高清电影,http://58.215.231.60/live2.rxip.sc96655.com/live/emdy4k_8000.m3u8
-
-埋堆堆,#genre#
-埋堆堆 1,http://live.iill.top/huya.php?id=23740156
-埋堆堆 2,http://live.iill.top/huya.php?id=23749096
-埋堆堆 3,http://live.iill.top/huya.php?id=23735126
-埋堆堆 4,http://live.iill.top/huya.php?id=23903123
-埋堆堆 5,http://live.iill.top/huya.php?id=23734169
-埋堆堆 6,http://live.iill.top/huya.php?id=23863804
-埋堆堆 7,http://live.iill.top/huya.php?id=23865080
-埋堆堆 8,http://live.iill.top/huya.php?id=23864973
-埋堆堆 9,http://live.iill.top/huya.php?id=23903130
-埋堆堆 10,http://live.iill.top/huya.php?id=23860039
-埋堆堆 11,http://live.iill.top/huya.php?id=23903183
-埋堆堆 12,http://live.iill.top/huya.php?id=23903196
-埋堆堆 13,http://live.iill.top/huya.php?id=23728674
-埋堆堆 14,http://live.iill.top/huya.php?id=23865036
-埋堆堆 15,http://live.iill.top/huya.php?id=23829543
-埋堆堆 16,http://live.iill.top/huya.php?id=23865161
-埋堆堆 17,http://live.iill.top/huya.php?id=23865058
-埋堆堆 18,http://live.iill.top/huya.php?id=23824164
-埋堆堆 19,http://live.iill.top/huya.php?id=23863796
-埋堆堆 20,http://live.iill.top/huya.php?id=23734183
-埋堆堆 21,http://live.iill.top/huya.php?id=23728660
-埋堆堆 22,http://live.iill.top/huya.php?id=23865142
-埋堆堆 23,http://live.iill.top/huya.php?id=23734246
-埋堆堆 24,http://live.iill.top/huya.php?id=23865171
-埋堆堆 25,http://live.iill.top/huya.php?id=23734256
-埋堆堆 26,http://live.iill.top/huya.php?id=23749083
 
 BesTV频道,#genre#
 BesTV 1,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000024/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000024&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
